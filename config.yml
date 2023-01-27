@@ -1,4 +1,4 @@
-baseURL: "kaszworkx.netlify.app" 
+baseURL: "https://kaszworkx.netlify.app" 
 languageCode: en-us
 title: "KASZ"
 theme: blowfish
