@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "WorKx"
+logo = "img/blowfish_logo_transparent.png"
+description = "A collection of ideas, works, and schedules."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "26 January 2023"
+
+[author]
+  name = "Kasz"
+  image = "img/author.png"
+  headline = "A collection of ideas, works, and schedules."
+  bio = "A collection of ideas, works, and schedules."
+  links = [
+    { github = "https://github.com/KXzeno/WorKx" },
+  ]
