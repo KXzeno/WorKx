@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kasz.com/workx/sitemap.xml

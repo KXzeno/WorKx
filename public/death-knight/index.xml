@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Death Knight on WorKx</title>
+    <link>https://kasz.com/workx/death-knight/</link>
+    <description>Recent content in Death Knight on WorKx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Jan 2023 00:07:00 -0800</lastBuildDate><atom:link href="https://kasz.com/workx/death-knight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kasz</title>
+      <link>https://kasz.com/workx/death-knight/resources/kasz/</link>
+      <pubDate>Thu, 26 Jan 2023 00:07:00 -0800</pubDate>
+      
+      <guid>https://kasz.com/workx/death-knight/resources/kasz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syzygy</title>
+      <link>https://kasz.com/workx/death-knight/resources/syzygy/</link>
+      <pubDate>Thu, 26 Jan 2023 00:07:00 -0800</pubDate>
+      
+      <guid>https://kasz.com/workx/death-knight/resources/syzygy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter One</title>
+      <link>https://kasz.com/workx/death-knight/chapter-one/chapterone/</link>
+      <pubDate>Wed, 25 Jan 2023 23:36:41 -0800</pubDate>
+      
+      <guid>https://kasz.com/workx/death-knight/chapter-one/chapterone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

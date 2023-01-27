@@ -1,0 +1,8 @@
+{
+    "name": "Kasz",
+    "image" : "img/krusher.jpg",
+    "bio": "Main Author",
+    "social": [
+        { "github": "https://github.com/KXzeno" }
+    ]
+}
