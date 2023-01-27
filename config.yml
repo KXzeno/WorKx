@@ -95,8 +95,8 @@ twitter:
   disableInlineCSS: true
 
 # From params.toml
-colorScheme: blowfish
-defaultAppearance: dark
+colorScheme: Neon
+defaultAppearance: light
 autoSwitchAppearance: true
 enableSearch: true
 enableCodeCopy: true
@@ -227,12 +227,12 @@ isoCode: en
 weight: 1
 rtl: false
 title: WorKx
-logo: img/blowfish_logo_transparent.png
+logo: "./assets/img/krusher.jpg"
 description: 'A collection of ideas, works, and schedules'
 dateFormat: 26 January 2023
 author:
   name: Kasz
-  image: img/blowfish_logo.png
+  image: "./assets/img/krusher.jpg"
   headline: 'A collection of ideas, works, and schedules'
   bio: 'A collection of ideas, works, and schedules'
   links:
