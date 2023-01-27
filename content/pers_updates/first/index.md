@@ -9,7 +9,6 @@ tags:
   - Dark Fantasy
 comments: true
 tags: ["Updates"]
-lastmod: 2023-01-27
 ---
 {{< alert >}}
 Unfinished for site-publish testing, may continue.

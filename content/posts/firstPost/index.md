@@ -1,10 +1,10 @@
 ---
 title: "Stentorian Mind"
-date: 2023-01-25T21:20:33-08:00
+date: 2023-01-25
 draft: false
-cover:
-    image: krusher.jpg
+comments: true
 tags: ["Self-Improvement", "Philosophy"] 
+lastmod: 2023-01-25
 ---
 {{< alert "poo" >}}
 Unfinished article due to site-publish testing, **will** continue article
