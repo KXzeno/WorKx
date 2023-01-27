@@ -1,6 +1,6 @@
 ---
-title: "Authors Taxonomy"
-draft: true
+title: "Authors"
+draft: false
 ---
 
-X/Y/Z
+Planning on making nav links here, will revisit later.
