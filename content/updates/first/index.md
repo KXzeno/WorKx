@@ -10,9 +10,7 @@ lastmod: 2023-01-28
 showDateUpdated: true
 ---
 {{< alert >}}
-Unfinished for site-publish testing, may continue.
+Unfinished for site-publish testing, will continue article eventually.
 {{< /alert >}}
-Top-down processing was an unintentional, indolence-provoking, yet an auspicious way of drafting my story.
-![1](./img/1.png)
 
 
