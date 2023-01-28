@@ -7,7 +7,7 @@ tags: ["Self-Improvement", "Philosophy"]
 lastmod: 2023-01-27
 # summary: "Sup"
 summaryLength: 19
-showDate: true
+showDate: false
 # series: ["DKR"]
 # series_order: 1
 # seriesOpened: false

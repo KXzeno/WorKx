@@ -1,14 +1,13 @@
 ---
 title: "Arcs Summarized"
 date: 2023-01-26
-draft: true
+draft: false
 description: "Drafting the climax.."
 author: Kasz
-tags: 
-  - beKnighted
-  - Dark Fantasy
 comments: true
-tags: ["Updates"]
+tags: ["Updates", "beKnighted",]
+lastmod: 2023-01-28
+showDateUpdated: true
 ---
 {{< alert >}}
 Unfinished for site-publish testing, may continue.
