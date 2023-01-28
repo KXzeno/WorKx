@@ -5,11 +5,13 @@ draft: false
 showComments: true
 tags: ["Self-Improvement", "Philosophy"] 
 lastmod: 2023-01-27
+# summary: "Sup"
 summaryLength: 19
 showDate: true
 # series: ["DKR"]
 # series_order: 1
 # seriesOpened: false
+# layout: "simple"
 showDateUpdated: true
 disqus_identifier: stent
 disqus_title: stentorian mind
