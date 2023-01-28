@@ -8,7 +8,7 @@ cascade:
 showDate: false
 showAuthor: false
 invertPagination: true
-draft: false
+draft: true
 ---
 
 {{< lead >}}
