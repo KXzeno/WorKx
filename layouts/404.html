@@ -1,9 +1,38 @@
+{{ define "header" }}
+        {{ partial "head" }}
+{{ end }}
+
 {{ define "main" }}
-  <h1 class="mb-3 text-4xl font-extrabold">{{ i18n "error.404_title" | emojify }}</h1>
+<!-- <title>Oops! Where are we?</title> -->
+  <h1 class="mb-3 text-4xl font-extrabold">
+    <!-- {{ i18n "error.404_title" | emojify }} -->
+    This page is in the Void; <br><br>
+    &nbsp For now.
+  </h1>
   <p class="mt-8 mb-12 text-neutral-400 dark:text-neutral-500">
-    {{ i18n "error.404_error" | emojify }}
+    <!-- {{ i18n "error.404_error" | emojify }} --> 
+    Page reference failed
   </p>
+  
+  {{ $local := resources.Get "img/aka404.gif" }}
+  <!-- <div class="flex-auto w-64"> -->
+  <!-- <div class="relative h-32 w-32"> -->
+    <!-- <div class="absolute left-0 top-0 h-16 w-16 ...">01</div> -->
+    <img class="object-center" src="{{ $local.RelPermalink }}" width="840" height="790"> 
+  <!-- </div> -->
+  <!-- </div> -->
+
   <div class="prose dark:prose-invert">
-    <p>{{ i18n "error.404_description" | emojify }}</p>
+    <!-- <p>{{ i18n "error.404_description" | emojify }}</p> -->
+    <p>Error 404, return later.</p>
   </div>
+  <main id="main">
+    <div>
+     <h1 id="title"><a href="{{ "" | relURL }}">Go Home</a></h1>
+    </div>
+  </main>
+{{ end }} 
+
+{{ define "footer" }}
+        {{ partial "foot" }}
 {{ end }}

@@ -1,0 +1,6 @@
+# File made in case needed for advanced control
+
+[[redirects]]
+	from = "/*"
+	to = "/404/"
+	status = 404
