@@ -2,5 +2,10 @@
 title: A Fresh Start
 showComments: true
 showDate: true
-date: 2023-01-28
+draft: false
+
+disqus_identifier: fresh
+disqus_title: welcome
+disqus_url: 'http://kaszworkx.netlify,app/pers_updates/freshnotice/'
 ---
+Hm.

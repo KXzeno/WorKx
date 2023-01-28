@@ -5,6 +5,10 @@ draft: false
 showComments: true
 tags: ["Self-Improvement", "Philosophy"] 
 lastmod: 2023-01-25
+
+disqus_identifier: stent
+disqus_title: stentorian mind
+disqus_url: 'https://kaszworkx.netlify.app/posts/firstpost/'
 ---
 {{< alert "poo" >}}
 Unfinished article due to site-publish testing, **will** continue article
