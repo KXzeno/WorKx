@@ -15,6 +15,7 @@ summary: Posted cover-only pages as a glimpse on what I'll be working on, articl
   initialString="Sup<br>"
   speed=17
 >}}
+<br><br>
 It is in my power to view a local version of the website without untimely publishing it. 
 <br>
 This whole page would be dedicated to explaining my upcoming plans, but then I decided that to avoid tarrying due to urgent matters, I could just make my blank pages visible for the few who revisit.
