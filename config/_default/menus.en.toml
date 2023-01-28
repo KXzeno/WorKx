@@ -48,6 +48,11 @@
   pageRef = "archive"
   weight = 40
 
+#[[subnavigation]]
+#  name = "Test"
+#  pageRef = "tags/philosophical"
+#  weight = 10
+
 #[[main]]
 #  name = "Merch"
 #  url = "http://tee.pub/lic/qwSlWVBL5zc"
