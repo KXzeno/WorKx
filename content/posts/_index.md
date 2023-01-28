@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-description: "Mostly updates on the workflow, may elaborate on personal matters if necessary."
+description: "Articles, blogs, events, and the sorts."
 showLikes: false
 showViews: false
 showReadingtime: false

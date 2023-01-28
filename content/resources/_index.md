@@ -5,10 +5,10 @@ showLikes: false
 showViews: false
 showReadingtime: false
 cascade:
-showDate: false
-showAuthor: false
-invertPagination: true
-draft: true
+  showDate: false
+  showAuthor: false
+  invertPagination: true
+# draft: true
 ---
 
 {{< lead >}}

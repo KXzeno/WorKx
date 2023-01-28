@@ -24,13 +24,13 @@
   name = "Resources"
   parent = "beKnighted"
   pageRef = "resources"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Chapters"
   parent = "beKnighted"
   pageRef = "chapters"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Project Updates"

@@ -9,6 +9,7 @@ disqus_url: 'http://kaszworkx.netlify.app/updates/a-fresh-start'
 tags: 
   - First Post
 summaryLength: 19
+slug: "bruh jingus"
 ---
 {{< alert "pencil" >}}
 Temporary post to test *separate comment threading*
