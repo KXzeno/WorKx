@@ -35,7 +35,7 @@
 [[main]]
   name = "Project Updates"
   parent = "beKnighted"
-  pageRef = "pers_updates"
+  pageRef = "updates"
   weight = 30
 
 [[main]]

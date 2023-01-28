@@ -9,7 +9,7 @@ summaryLength: 19
 
 disqus_identifier: stent
 disqus_title: stentorian mind
-disqus_url: 'https://kaszworkx.netlify.app/posts/firstpost/'
+disqus_url: 'https://kaszworkx.netlify.app/posts/stentorian-mind/'
 ---
 {{< lead >}}
 You are either one or two steps away from success, the former expresses competence; the latter—completely mired down where only a forgiving lodestar can offer a chance to escape.
