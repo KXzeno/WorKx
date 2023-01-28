@@ -33,7 +33,7 @@ As you're reading this article, examine your goals. They could be:
   * Modifying my own model of reality
   * **None**
 
-As a standard, a reader agree will agree with point one for anything that he chooses to read, otherwise his use of time requires tortuous interrogation.
+As a standard, a reader will agree with point one for anything that he chooses to read, otherwise his use of time requires tortuous interrogation.
 
 Bringing back the idea of satisfaction and a mundane life, internal monologuing is imperative. Reading it with facile resources brings it no value, but if you were to set the variables to things that you are more familiar with, then it makes all the difference. 
 
