@@ -10,7 +10,7 @@ logo = "img/blowfish_logo_transparent.png"
 description = "A collection of ideas, works, and schedules."
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "January 02, 2006 MST"
+dateFormat = "January 02, 2006"
 
 [author]
   name = "Kx" 
