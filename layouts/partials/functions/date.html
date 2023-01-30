@@ -1,1 +1,1 @@
-{{ return time.Format (site.Language.Params.dateFormat | default ":date_long") .Local }}
+{{ return time.Format (site.Language.Params.dateFormat | default ":date_long") . }} <!-- Can append 'Local' at the end of func-->
