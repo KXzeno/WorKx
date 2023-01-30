@@ -1,6 +1,6 @@
 ---
 title: "Why Are Empty Pages Uploaded?"
-date: 2023-01-28T16:39:00-80:00
+date: 2023-01-28T16:39:00-08:00
 draft: false
 # lastmod: 2023-01-28
 showDate: true
@@ -20,4 +20,3 @@ It is in my power to view a local version of the website without untimely publis
 <br>
 This whole page would be dedicated to explaining my upcoming plans, but then I decided that to avoid tarrying due to urgent matters, I could just make my blank pages visible for the few who revisit.
 {{< /typeit >}}
-0
