@@ -1,7 +1,19 @@
 ---
 cover:
-  image: krusher.jpg
+image: krusher.jpg
 ---
 
-# A curious mind?
+<!-- <div class="w-3/4 overflow-x-auto>
+  <div class="whitespace-nowrap">
+    {{< typeit 
+      tag=h2
+      speed=79
+      speed=17
+    >}}
+         A curious mind?
+    {{< /typeit >}}
+    </div>
+  </div>
+-->
 
+# *Expect Delay*
