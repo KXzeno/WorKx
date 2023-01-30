@@ -1,7 +1,7 @@
 # Disable directory browsing
-Options -indexes
+# Options -indexes
 
 # IP Blocks:
 # Deny from XXX.XXX.XXX.XXX
 
-SetEnv TZ America/Los_Angeles
+# SetEnv TZ America/Los_Angeles
