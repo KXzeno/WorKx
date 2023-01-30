@@ -4,3 +4,10 @@
 	from = "/*"
 	to = "/404/"
 	status = 404
+
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.110.0"

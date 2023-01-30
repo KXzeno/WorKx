@@ -7,5 +7,6 @@ showDateUpdated: true
 series: ["beKnighted: Characters"]
 series_order: 1
 tags: ["beKnighted", "Male Protagonist"]
+publishDate:
 ---
 
