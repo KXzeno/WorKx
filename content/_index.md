@@ -16,4 +16,4 @@ image: krusher.jpg
   </div>
 -->
 
-# *Expect Delay*
+# *Untouched, but not for long*
