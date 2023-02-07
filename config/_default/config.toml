@@ -1,7 +1,7 @@
 # -- Site Configuration --
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
-
+Test
 theme = "blowfish"
 baseURL = "https://kaszworkx.netlify.app"
 defaultContentLanguage = "en"
