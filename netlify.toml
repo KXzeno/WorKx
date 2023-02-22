@@ -7,6 +7,7 @@
 
 [build]
   command = "hugo"
+  commandOrigin = "config"
   publish = "public"
 
 [build.environment]
