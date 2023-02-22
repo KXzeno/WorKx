@@ -1,7 +1,7 @@
 ---
 title: "Kasz"
 date: 2023-01-26T00:07:00-08:00
-draft: false
+draft: true
 lastmod: 2023-01-28T16:01:00-08:00
 showDateUpdated: true
 series: ["beKnighted: Characters"]

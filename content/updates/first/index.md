@@ -1,7 +1,7 @@
 ---
 title: "Arcs Summarized"
 date: 2023-01-26
-draft: false
+draft: true
 description: "Drafting the climax.."
 author: Kasz
 comments: true

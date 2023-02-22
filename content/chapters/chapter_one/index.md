@@ -2,7 +2,7 @@
 title: "Chapter One"
 date: 2023-01-25T23:36:41-08:00
 lastmod: 2023-01-28
-draft: false
+draft: true
 series: ["beKnighted, Vol. 1"]
 series_order: 1
 layout: "simple"
