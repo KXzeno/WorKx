@@ -4,7 +4,7 @@ date: 2023-02-16T14:24:24-08:00
 showDate: true
 lastmod:
 showDateUpdated: false
-draft: false
+draft: true
 series: ["Models of Reality"]
 series_order: 1
 summary: Using science to make more clear of what and who we are, especially in these days where people are rewarded for being who they can't. 
