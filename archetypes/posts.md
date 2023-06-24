@@ -4,7 +4,7 @@ date: {{ .Date }}
 showDate: true
 lastmod:
 showDateUpdated: false
-series: [""]
+# series: [""]
 draft: true
 summary:
 disqus_identifier: {{ $x := printf "%s" .Name }}{{ $y := sha256 $x }}{{ crypto.FNV32a $y }}
