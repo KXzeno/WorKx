@@ -10,6 +10,6 @@ disqus_identifier: {{ $x := printf "%s" .Name }}{{ $y := sha256 $x }}{{ crypto.F
 disqus_title: "{{ replace .Name "-" " " | title }}"
 disqus_url: 'https://kaszworkx.netlify.app/updates/{{$name := printf "%s" .Name}}{{ urlize $name | lower }}'
 showComments: true
-tags: [""]
+tags: ["Updates"]
 ---
 

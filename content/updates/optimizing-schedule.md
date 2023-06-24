@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Schedule"
-date: 2023-06-24T03:11:18-07:00
+date: 2023-06-24T04:19:11-07:00
 showDate: true
 lastmod: 
 showDateUpdated: false
