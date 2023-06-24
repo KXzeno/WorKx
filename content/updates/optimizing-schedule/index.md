@@ -4,13 +4,13 @@ date: 2023-06-24T04:20:28-07:00
 showDate: true
 lastmod: 
 showDateUpdated: false
-series: [""]
 draft: false
 disqus_identifier: 245894976
 disqus_title: "Optimizing Schedule"
 disqus_url: 'https://kaszworkx.netlify.app/updates/optimizing-schedule'
 showComments: true
 tags: ["Updates"]
+summary: Imposing a contingent schedule, will have a minimum post of one every Friday.
 ---
 # Work flow 
 
