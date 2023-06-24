@@ -1,5 +1,5 @@
 ---
-title: "Self-Exploration & Individualism,"
+title: "Self-Exploration & Individualism"
 date: 2023-06-24T04:55:23-07:00
 showDate: true
 lastmod:
