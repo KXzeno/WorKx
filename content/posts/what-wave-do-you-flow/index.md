@@ -19,7 +19,7 @@ Thermodynamic equilibrium
 Entropy
 Micro-state
 
-Masculine vs. Feminine Goals. Horikita, Way of the House Husband
+Masculine vs. Feminine Goals. Horikita, Way of the House Husband, League of Legends all women esports team
 M Strives for achievement
 F Strives for social longing
 
