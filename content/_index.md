@@ -16,4 +16,4 @@ image: krusher.jpg
   </div>
 -->
 
-# *I [have](https://www.davidsongifted.org/gifted-blog/the-intellectual-and-psychosocial-nature-of-extreme-giftedness/) returned*
+# *Know your [place](https://www.davidsongifted.org/gifted-blog/the-intellectual-and-psychosocial-nature-of-extreme-giftedness/)*
