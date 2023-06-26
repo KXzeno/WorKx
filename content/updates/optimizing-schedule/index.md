@@ -18,4 +18,4 @@ Almost half a year of neglect.
 
 Though, the faculty of generating interesting dialogue had never been, and will never be, disowned. After finally settling with better conditions, which includes complete accessibility to my work station, I plan to share products of the mind in a structural manner. To identify a proper pace, I will start off with one article every Friday. 
 
-I will break tradition for this moment since I thirst for improvement, I will post an article later some time on Monday.
+I will break tradition for this moment since I thirst for improvement, I will post an article later some time around Tuesday.
