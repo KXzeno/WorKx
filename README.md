@@ -13,12 +13,12 @@ is my passion project—a public directory where I store a collection of various
 <a href="https://github.com/kxzeno/workx/commits/master">
 <img src="https://img.shields.io/github/last-commit/kxzeno/workx.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
-<a href="https://github.com/kxzeno/workx/issues">
-<img src="https://img.shields.io/github/issues-raw/kxzeno/workx.svg?style=flat-square&logo=github&logoColor=white"
-alt="GitHub issues">
 <a href="https://app.netlify.com/sites/kaszworkx/deploys">
 <img src="https://api.netlify.com/api/v1/badges/f263ae1a-1669-47c1-a2a6-7545d5c3dfb1/deploy-status"
 alt="Deploy status">
+<a href="https://github.com/kxzeno/workx/issues">
+<img src="https://img.shields.io/github/issues-raw/kxzeno/workx.svg?style=flat-square&logo=github&logoColor=white"
+alt="GitHub issues">
 
 ---
 Skills | Mastery |
