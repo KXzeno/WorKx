@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "WorKx"
+logo = "img/blowfish_logo_transparent.png"
+description = "A collection of ideas, works, and schedules."
+# copyright = "Copy, _right?_ :thinking_face:"
+
+# timeZone = "Local"
+dateFormat = "January 02, 2006, at 15:04 MST"
+
+[author]
+  name = "Kx" 
+  image = "img/author.png"
+  headline = "A collection of ideas, works, and schedules."
+  bio = "I write, code, and uplift."
+  links = [
+    { github = "https://github.com/KXzeno/WorKx" },
+  ]

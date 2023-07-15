@@ -1,0 +1,12 @@
+# Essentials
+
+    plans.md
+    *.env
+    process.env
+
+# Backup DIRs
+    
+	/layouts/partials old/
+    /config/_defaultx/
+    /config/_defaultbase/
+	/themes/blowfish-old/
