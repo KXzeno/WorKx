@@ -633,21 +633,3 @@ body:has(#menu-controller:checked) {
   .2xl\:ratio-32-9 { padding-top: 28.125%; } /* 32:9 Aspect Ratio */
 }
 
-.star-container {
-  display: flex;
-}
-
-.star-container > div {
-  width: 17px;
-  height: 17px;
-  background-image: url('https://img.icons8.com/external-filled-outline-berkahicon/64/external-Star-editing-filled-outline-berkahicon.png');
-}
-
-.star {
-  background-size: contain;
-}
-
-.empty-star {
-  background-image: url('https://img.icons8.com/external-creatype-two-colour-colourcreatype/64/external-bookmark-user-interface-creatype-two-colour-colourcreatype.png');
-  background-size: contain;
-}
