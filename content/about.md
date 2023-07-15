@@ -22,6 +22,6 @@ author = "Kasz"
 -->
 ||| Proficiency ||
 |-|-|-|-|
-|| ![Mastery](img/tailwind_rating.png) || ![Mastery](img/latex_rating.png) |
-|| ![Mastery](img/latex_rating.png) || ![Mastery](img/vim_rating.png)
-|| ![Mastery](img/pwsh_rating.png) || ![Mastery](img/tailwind_rating.png)
+|| ![Mastery](img/java_rating.png) || ![Mastery](img/latex_rating.png) |
+|| ![Mastery](img/vim_rating.png) || ![Mastery](img/pwsh_rating.png)
+|| ![Mastery](img/tailwind_rating.png) || 
