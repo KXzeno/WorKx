@@ -5,8 +5,7 @@ date = "2023-01-26"
 aliases = ["about-us", "about-kasz", "contact"]
 author = "Kasz"
 +++
-<!--Empty, for now.
--->
+Empty, for now.
 {{< github repo="kxzeno/workx" >}}
 
 <!--
