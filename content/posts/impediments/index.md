@@ -5,7 +5,7 @@ showDate: true
 lastmod:
 showDateUpdated: false
 # series: [""]
-draft: false
+draft: true
 # summary:
 disqus_identifier: 241463835
 disqus_title: "Impediments"

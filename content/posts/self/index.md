@@ -5,7 +5,7 @@ showDate: true
 lastmod:
 showDateUpdated: false
 # series: [""]
-draft: false
+draft: true
 summary: Individualism allows one to manifest ideal forms while self-discovery gives progress in achieving them.
 disqus_identifier: 2296222410
 disqus_title: "Self"

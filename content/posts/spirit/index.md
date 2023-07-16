@@ -4,7 +4,7 @@ title: "Body, Spirit, Mind, and Soul"
 showDate: true
 showDateUpdated: false
 # series: [""]
-draft: false
+draft: true
 # summary:
 disqus_identifier: 624288808
 disqus_title: "Spirit"
