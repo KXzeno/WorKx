@@ -4,7 +4,7 @@ date: 2023-06-24T04:20:28-07:00
 showDate: true
 lastmod: 
 showDateUpdated: false
-draft: false
+draft: true
 disqus_identifier: 245894976
 disqus_title: "Optimizing Schedule"
 disqus_url: 'https://kaszworkx.netlify.app/updates/optimizing-schedule'
