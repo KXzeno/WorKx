@@ -1,3 +1,5 @@
+<h5 align="center"> No longer maintained; resurging as a full-stack from-zero <a href="https://github.com/KXzeno/karnovah"><span>project</span></a></h5>
+
 <p align="center">
   <font size="24">
   <a href="https://kaszworkx.netlify.app">Karnovah</a>, <i><font size="3">formerly WorKx</font></i> 
